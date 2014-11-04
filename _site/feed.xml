@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Coquereau</title>
+    <description>front-end developer · Paris</description>
+    <link>http://thau.me/</link>
+    <atom:link href="http://thau.me/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>A new life</title>
+        <description>&lt;p&gt;We are here to make things move.&lt;/p&gt;
+
+&lt;p&gt;We are here because we believe they can and want to move.&lt;/p&gt;
+
+&lt;p&gt;We are here bescause many people are trying to move them, but smash themselves in huge walls of ignorance.&lt;/p&gt;
+
+&lt;p&gt;This is Blaaast, and it will bounce your world.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2014 16:16:51 +0100</pubDate>
+        <link>http://thau.me/2014/11/a-new-life</link>
+        <guid isPermaLink="true">http://thau.me/2014/11/a-new-life</guid>
+      </item>
+    
+  </channel>
+</rss>

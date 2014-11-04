@@ -1,0 +1,17 @@
+# Site settings
+title: "Tom Coquereau"
+name: "Tom Coquereau"
+description: "front-end developer · Paris"
+email: tom@thau.me
+author: "Tom Coquereau"
+baseurl: ""
+url: "http://thau.me"
+google_analytics: UA-45409833-1
+
+twitter: thaume
+github: thaume
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title
+paginate: 3
