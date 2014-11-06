@@ -1,15 +1,14 @@
 # Site settings
-title: "Tom Coquereau"
-name: "Tom Coquereau"
-description: "front-end developer · Paris"
-email: tom@thau.me
-author: "Tom Coquereau"
+title: "Open Blaaast"
+name: "Blaaast"
+description: "Digital communication · Paris"
+email: tom@blaaast.co
+author: "Tom Coquereau and Sofian Meguellati"
 baseurl: ""
-url: "http://thau.me"
+url: "http://open.blaaast.co"
 google_analytics: UA-45409833-1
 
-twitter: thaume
-github: thaume
+twitter: goblaaast
 
 # Build settings
 markdown: kramdown
